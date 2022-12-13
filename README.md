@@ -1,12 +1,12 @@
 # 👩‍💻Ola!Eu sou a stefanny Santos tenho 21 anos e sou apaixonada por programação e meu grande objetivo e me torna uma grande desenvolvedora de Front End.
 
-📚Estou estudando Linguagem de programação(HTML, CSS, JAVA SCRIPT)
+📚 Estou estudando Linguagem de programação(HTML, CSS, JAVASCRIPT)
 
 🎮 Hobbie gosto de Jogos de Quiz e Músicas.
 
 ⚡ E mostra meus desenvolvimento pelo GitHub.
 
-😊Pronouns: Ela/Dela
+😊 Pronouns: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/stefannydossantos26">
