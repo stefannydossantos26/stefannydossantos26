@@ -1,8 +1,8 @@
 # 👩‍💻Ola!Eu sou a stefanny Santos tenho 21 anos e sou apaixonada por programação e meu grande objetivo e me torna uma grande desenvolvedora de Front End.
 
-📚 Estou estudando Linguagem de programação(HTML, CSS, JAVASCRIPT)
+📚 Estou estudando (HTML, CSS, JAVASCRIPT)
 
-🎮 Hobbie gosto de Jogos de Quiz e Músicas.
+🎮 Hobbie Jogos de Quiz e Músicas.
 
 ⚡ E mostra meus desenvolvimento pelo GitHub.
 
@@ -25,5 +25,5 @@
   <a href="https://instagram.com/stefannysantos._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/stefanny#9711" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "stercordovil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/stefanny-cordovil-982041478" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/stefanny-cordovil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
