@@ -1,14 +1,13 @@
-# 👩‍💻Ola!Eu sou a stefanny Santos tenho 21 anos e sou apaixonada por programação e meu grande objetivo e me torna uma grande desenvolvedora de Front End.
+# 👩‍💻Ola!Eu sou a stefanny Santos tenho 21 anos e sou apaixonada por programação e meu grande objetivo e me torna uma grande desenvolvedora de BanckEnd.
 
-📚 Estou estudando (HTML, CSS, JAVASCRIPT)
+📚 Estou estudando (JAVA, HTML, CSS, JAVASCRIPT)
 
 🎮 Hobbie Jogos de Quiz e Músicas.
-
-⚡ E mostra meus desenvolvimento pelo GitHub.
 
 😊 Pronouns: Ela/Dela
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="ster-Jv" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="ster-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ster-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ster-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
