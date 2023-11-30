@@ -1,4 +1,4 @@
-# 👩‍💻Ola!Eu sou a stefanny Santos tenho 21 anos e sou apaixonada por programação e meu grande objetivo e me torna uma grande desenvolvedora de BanckEnd.
+# 👩‍💻Ola!Eu sou a stefanny Santos tenho 21 anos e sou apaixonada por programação e meu grande objetivo e me torna uma grande desenvolvedora de BackEnd.
 
 📚 Estou estudando (JAVA, HTML, CSS, JAVASCRIPT)
 
