@@ -1,4 +1,4 @@
-## 👩‍💻Ola!Eu sou a stefanny Santos sou apaixonada por programação e meu grande objetivo e me torna uma grande desenvolvedora de BackEnd.
+## 👩‍💻Ola!Eu sou a stefanny Santos sou apaixonada por programação e meu grande objetivo é se uma grande desenvolvedora de BackEnd.
 
 🎮 Hobbie Jogos de Quiz e Músicas.
 
